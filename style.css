@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Caslon+Text:400,400i&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 24px;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: 'Libre Caslon Text', serif;
+    color: #000;
+}
+
+p{
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    line-height: 24px;
+    text-align: justify;
+}
+
+a{
+    color: #000;
+}
+
+a:hover{
+    color: #5d5d5d;
+}
+
+img{
+    width: 242px;
+    height: auto;
+    margin-top: 42px;
+}
